@@ -16,9 +16,9 @@ function Home() {
             <SearchForm />
             <LastHolidaysSection />
             <div className="my-4 my-sm-5">
-                <RecommendedSection itemRecommendedTitle='Recommended for you' />
+                <RecommendedSection itemRecommendedTitle='Rekomendasi untuk anda.' />
             </div>
-            <HolidayPlanSection itemHolidayPlanTitle='Plan your summer holiday' />
+            <HolidayPlanSection itemHolidayPlanTitle='Rencanakan liburan anda.' />
             <FavouritesSection />
             <RecentHolidays />
             <NeedInspirationSection />

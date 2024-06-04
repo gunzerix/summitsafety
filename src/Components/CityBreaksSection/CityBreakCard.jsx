@@ -14,7 +14,7 @@ function CityBreakCard(props) {
                     <Card.Text>
                         from
                         <span className='fw-bold ms-1 text-green'>{props.itemPrice}</span>
-                        pp
+                        
                     </Card.Text>
                 </div>
             </Card.Body>

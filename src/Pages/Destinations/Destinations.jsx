@@ -11,14 +11,14 @@ import RecommendedSection from '../../Components/RecommendedSection/RecommendedS
 function Destinations() {
   return (
     <div className='destinations-page'>
-      <SecondHeroSection secondHeroTitle='Beautiful destinations' />
+      <SecondHeroSection secondHeroTitle='Destinasi yang indah' />
       <EuropeDestinationsSection />
-      <HolidayPlanSection itemHolidayPlanTitle='Find your perfect summer holiday' />
+      <HolidayPlanSection itemHolidayPlanTitle='Temukan Perjalanan Indahmu.' />
       <AsiaDestinationsSection />
       <NeedInspirationsSection />
       <AfricaDestinationsSection />
       <div className='mt-4 mt-sm-5'>
-        <RecommendedSection itemRecommendedTitle='Your dream holiday' />
+        <RecommendedSection itemRecommendedTitle='Liburan impian Anda.' />
       </div>
     </div>
   )

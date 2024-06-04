@@ -14,10 +14,10 @@ function RecentHolidayCard(props) {
                         <li className='text-start'>{props.itemDescription}</li>
                         <li className='text-start'>{props.itemNights}</li>
                         <li className='price text-start text-green'>
-                            <strong>{props.itemPrice}</strong>pp
+                            <strong>{props.itemPrice}</strong>
                         </li>
                     </ul>
-                    <Button variant='dark'>View Now</Button>
+                    <Button variant='dark'>Selengkapnya</Button>
                 </Card.Body>
             </div>
         </Card>

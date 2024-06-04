@@ -11,8 +11,8 @@ function RecommendedSection(props) {
             <div className='row justify-content-end'>
                 <div className='col-md-6 col-lg-3 z-2'>
                     <h3 className='text-light text-capitalize fw-semibold'>{props.itemRecommendedTitle}</h3>
-                    <p className='text-light'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur, laboriosam.</p>
-                    <a className='text-light text-capitalize text-decoration-none fw-semibold' href="/">Book now</a>
+                    <p className='text-light'>Kami memberikan rekomendasi perjalanan anda agar lebih  menarik dan seru.</p>
+                    <a className='text-light text-capitalize text-decoration-none fw-semibold' href="/">Pesan sekarang</a>
                 </div>
             </div>
         </Container>

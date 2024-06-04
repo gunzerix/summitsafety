@@ -1,58 +1,59 @@
-import AmsterdamHotel1 from '../Assets/Images/amsterdam-hotel1.jpg';
-import AmsterdamHotel2 from '../Assets/Images/amsterdam-hotel2.jpg';
-import AmsterdamHotel3 from '../Assets/Images/amsterdam-hotel3.jpg';
-import AmsterdamHotel4 from '../Assets/Images/amsterdam-hotel4.jpg';
-import AmsterdamHotel5 from '../Assets/Images/amsterdam-hotel5.jpg';
-import AmsterdamHotel6 from '../Assets/Images/amsterdam-hotel6.jpg';
+import AmsterdamHotel1 from '../Assets/Images/carieer.jpeg';
+import AmsterdamHotel2 from '../Assets/Images/sepatu 1.jpeg';
+import AmsterdamHotel3 from '../Assets/Images/sepatu 2.jpeg';
+import AmsterdamHotel4 from '../Assets/Images/tenda.jpeg';
+import AmsterdamHotel5 from '../Assets/Images/sleepingbag.jpeg';
+import AmsterdamHotel6 from '../Assets/Images/headlamp.jpeg';
+import { CardImg } from 'react-bootstrap';
 
 let AmsterdamCityBreaksItems = [
     {
         id: 1,
         itemImage: AmsterdamHotel1,
-        itemTitle: 'Amsterdam hotel',
-        itemSubTitle: 'Netherlands, Amsterdam',
-        itemNights: '2 nights',
-        itemPrice: '£499'
+        itemTitle: 'Tas Carieer ',
+        itemSubTitle: 'Tas Carier dengan ukuran 60 liter',
+        itemNights: '3 hari',
+        itemPrice: 'Rp 150.000'
     },
     {
         id: 2,
         itemImage: AmsterdamHotel2,
-        itemTitle: 'Yellow hotel',
-        itemSubTitle: 'Netherlands, Amsterdam',
-        itemNights: '3 nights',
-        itemPrice: '£599'
+        itemTitle: 'Sepatu Gunung',
+        itemSubTitle: 'Sepatu gunung berkualitas',
+        itemNights: '3 hari',
+        itemPrice: 'Rp 100.000'
     },
     {
         id: 3,
         itemImage: AmsterdamHotel3,
-        itemTitle: 'Old hotel',
-        itemSubTitle: 'Netherlands, Amsterdam',
-        itemNights: '3 nights',
-        itemPrice: '£799'
+        itemTitle: 'Sepatu Gunung Salomon',
+        itemSubTitle: 'Sepatu gunung berkualitas',
+        itemNights: '3 hari',
+        itemPrice: 'Rp 200.000'
     },
     {
         id: 4,
         itemImage: AmsterdamHotel4,
-        itemTitle: 'Golden hotel',
-        itemSubTitle: 'Netherlands, Amsterdam',
-        itemNights: '3 nights',
-        itemPrice: '£399'
+        itemTitle: 'Tenda',
+        itemSubTitle: 'Tenda berkapsitas 6 orang',
+        itemNights: '3 hari',
+        itemPrice: 'Rp 300.000'
     },
     {
         id: 5,
         itemImage: AmsterdamHotel5,
-        itemTitle: 'Vintage hotel',
-        itemSubTitle: 'Netherlands, Amsterdam',
-        itemNights: '2 nights',
-        itemPrice: '£499'
+        itemTitle: 'Sleeping bag',
+        itemSubTitle: 'Sleeping bag berbahan bulu angsa',
+        itemNights: '2 hari',
+        itemPrice: 'Rp 150.000'
     },
     {
         id: 6,
         itemImage: AmsterdamHotel6,
-        itemTitle: 'Bimhuis hotel',
-        itemSubTitle: 'Netherlands, Amsterdam',
-        itemNights: '3 nights',
-        itemPrice: '£299'
+        itemTitle: 'Head lamp',
+        itemSubTitle: 'Senter kepala',
+        itemNights: '3 hari',
+        itemPrice: 'Rp 50.000'
     }
 ];
 

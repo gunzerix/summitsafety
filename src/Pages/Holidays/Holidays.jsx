@@ -10,13 +10,13 @@ import RecommendedSection from '../../Components/RecommendedSection/RecommendedS
 function Holidays() {
     return (
         <div className='holidays-page'>
-            <SecondHeroSection secondHeroTitle='Your perfect holiday' />
+            <SecondHeroSection secondHeroTitle='Lengkapi perlengkapanmu' />
             <EveryoneHolidays />
             <NeedInspirationSection />
             <NextHoliday />
-            <HolidayPlanSection itemHolidayPlanTitle='Plan your summer holidays' />
+            <HolidayPlanSection itemHolidayPlanTitle='Rencanakan perjalananmu.' />
             <div className='mt-4 mt-sm-5'>
-                <RecommendedSection itemRecommendedTitle='Recommended for you' />
+                <RecommendedSection itemRecommendedTitle='Rekomendasi untuk anda.' />
             </div>
         </div>
     )

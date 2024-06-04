@@ -7,7 +7,7 @@ function Footer() {
         <p className='mb-0'>
             Copyright
             <img src={Copyright} className='mx-1' alt="copyright" />
-            Ionut Cora 2024
+            Montain Maverick 2024
         </p>
     </div>
   )

@@ -11,12 +11,12 @@ import NeedInspirationSection from '../../Components/NeedInspiration/NeedInspira
 function CityBreaks() {
   return (
     <div className='city-breaks-page'>
-      <SecondHeroSection secondHeroTitle='City break for you' />
+      <SecondHeroSection secondHeroTitle='Liburan alam untuk anda' />
       <AmsterdamCityBreaksSection />
-      <HolidayPlanSection itemHolidayPlanTitle='Find your perfect summer holiday' />
+      <HolidayPlanSection itemHolidayPlanTitle='Temukan Perjalanan Indahmu.' />
       <LondonCityBreaksSection />
       <div className='my-4 my-sm-5'>
-        <RecommendedSection itemRecommendedTitle='Your dream holiday' />
+        <RecommendedSection itemRecommendedTitle='Liburan impian Anda.' />
       </div>
       <ParisCityBreaksSection />
       <NeedInspirationSection />
