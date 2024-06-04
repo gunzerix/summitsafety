@@ -10,7 +10,7 @@ import RecommendedSection from '../../Components/RecommendedSection/RecommendedS
 function Holidays() {
     return (
         <div className='holidays-page'>
-            <SecondHeroSection secondHeroTitle='Lengkapi perlengkapanmu' />
+            <SecondHeroSection secondHeroTitle='Mau Pergi Kemana Hari ini ?' />
             <EveryoneHolidays />
             <NeedInspirationSection />
             <NextHoliday />

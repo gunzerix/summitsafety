@@ -1,39 +1,39 @@
 let NextHolidayItems = [
     {
         id: 1,
-        itemTitle: 'Maldives from £499pp'
+        itemTitle: 'Gunung Jaya from £499pp'
     },
     {
         id: 2,
-        itemTitle: 'Dubai from £299pp'
+        itemTitle: 'Gunung Kerinci from £299pp'
     },
     {
         id: 3,
-        itemTitle: 'London from £799pp'
+        itemTitle: 'Gunung Agung from £799pp'
     },
     {
         id: 4,
-        itemTitle: 'Paris from £199pp'
+        itemTitle: 'Gunung Tambora from £199pp'
     },
     {
         id: 5,
-        itemTitle: 'Greece from £99pp'
+        itemTitle: 'Gunung Papandayan from £99pp'
     },
     {
         id: 6,
-        itemTitle: 'Spain from £199pp'
+        itemTitle: 'Gunung Gede Pangrango from £199pp'
     },
     {
         id: 7,
-        itemTitle: 'Egypt from £499pp'
+        itemTitle: 'Gunung Batur from £499pp'
     },
     {
         id: 8,
-        itemTitle: 'Turkey from £399pp'
+        itemTitle: 'Gunung Krakatau from £399pp'
     },
     {
         id: 9,
-        itemTitle: 'Thailand from £299pp'
+        itemTitle: 'Gunung Tangkuban Perahu from £299pp'
     }
 ];
 
