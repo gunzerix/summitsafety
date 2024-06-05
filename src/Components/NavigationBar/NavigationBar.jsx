@@ -6,7 +6,6 @@ import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 import AirplaneLogo from '../../Assets/Icons/airplane.svg';
-
 function NavigationBar() {
     return (
         <Navbar expand='lg' className='position-absolute w-100 z-2'>
@@ -26,7 +25,7 @@ function NavigationBar() {
                         <Nav.Link href='/destinations' className='text-light'>Sharing</Nav.Link>
                     </Nav>
                     <Button variant='light'>
-                        <Link to='/' className='text-decoration-none text-capitalize text-dark text-nowrap'>Sign in</Link>
+                        <Link to='/login' className='text-decoration-none text-capitalize text-dark text-nowrap'>Sign in</Link>
                     </Button>
                 </Navbar.Collapse>
             </Container>

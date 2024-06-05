@@ -1,17 +1,17 @@
 import React from 'react';
-import './Holidays.css';
+import './Porter.css';
 import SecondHeroSection from '../../Components/SecondHeroSection/SecondHeroSection';
-import EveryoneHolidays from '../../Components/EveryoneHolidays/EveryoneHolidays';
+import PorterCp from '../../Components/PorterCp/PorterCp';
 import NeedInspirationSection from '../../Components/NeedInspiration/NeedInspirationSection';
 import NextHoliday from '../../Components/NextHoliday/NextHoliday';
 import HolidayPlanSection from '../../Components/HolidayPlanSection/HolidayPlanSection';
 import RecommendedSection from '../../Components/RecommendedSection/RecommendedSection';
 
-function Holidays() {
+function Porter() {
     return (
         <div className='holidays-page'>
-            <SecondHeroSection secondHeroTitle='Mau Pergi Kemana Hari ini ?' />
-            <EveryoneHolidays />
+            <SecondHeroSection secondHeroTitle='Lengkapi perlengkapanmu' />
+            <PorterCp />
             <NeedInspirationSection />
             <NextHoliday />
             <HolidayPlanSection itemHolidayPlanTitle='Rencanakan perjalananmu.' />
@@ -22,4 +22,4 @@ function Holidays() {
     )
 }
 
-export default Holidays;
+export default Porter;

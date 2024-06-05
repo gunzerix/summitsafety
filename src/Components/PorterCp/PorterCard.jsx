@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import ChevronRight from '../../Assets/Icons/chevron-right.svg';
 
-function EveryoneHolidaysCard(props) {
+function PorterCard(props) {
   return (
     <div className='col-md-6 col-xl-4'>
         <Card className='shadow d-flex flex-sm-row overflow-hidden'>
@@ -13,7 +13,7 @@ function EveryoneHolidaysCard(props) {
                 <Card.Body className='p-4'>
                     <p className='mb-0 text-capitalize'>{props.itemSubTitle}</p>
                     <p className='price my-2 fw-bold text-green'>{props.itemPrice}</p>
-                    <p className='mb-0'>per person</p>
+                    <p className='mb-0'></p>
                 </Card.Body>
                 <img src={ChevronRight} className='me-3' alt="chevron-right" />
             </div>
@@ -22,4 +22,4 @@ function EveryoneHolidaysCard(props) {
   )
 }
 
-export default EveryoneHolidaysCard;
+export default PorterCard;

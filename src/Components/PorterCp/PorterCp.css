@@ -7,27 +7,27 @@
 }
 
 .everyone-holidays-section .row .col-md-6:first-of-type .image-div {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/all-inclusive-all.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/porter1.jpeg);
 }
 
 .everyone-holidays-section .row .col-md-6:nth-of-type(2) .image-div {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/beach-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/porter2.jpeg);
 }
 
 .everyone-holidays-section .row .col-md-6:nth-of-type(3) .image-div {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(../../Assets/Images/boat-cruise.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(../../Assets/Images/porter3.jpg);
 }
 
 .everyone-holidays-section .row .col-md-6:nth-of-type(4) .image-div {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(../../Assets/Images/city-break.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(../../Assets/Images/porter4.jpg);
 }
 
 .everyone-holidays-section .row .col-md-6:nth-of-type(5) .image-div {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(../../Assets/Images/hotel-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(../../Assets/Images/porter5.jpg);
 }
 
 .everyone-holidays-section .row .col-md-6:last-of-type .image-div {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/winter-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/porter6.jpg);
 }
 
 .everyone-holidays-section .image-div {

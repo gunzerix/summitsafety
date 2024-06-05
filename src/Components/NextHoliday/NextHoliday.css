@@ -13,37 +13,37 @@
 }
 
 .next-holiday-section .row .col-md-6:first-of-type .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/maldives-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/papandayan.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(2) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/holiday-dubai.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/Arjuno.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(3) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.70)), url(../../Assets/Images/holiday-london.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.70)), url(../../Assets/Images/pangrango.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(4) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/holiday-paris.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/Gandong.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(5) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/greece-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/Majakuning.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(6) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/spain-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/Gslamet.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(7) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/egypt-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/Gsindoro.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:nth-of-type(8) .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/turkey-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/rinjani.jpeg);
 }
 
 .next-holiday-section .row .col-md-6:last-of-type .card {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/thailand-holiday.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/kerinci.jpeg);
 }

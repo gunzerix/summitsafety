@@ -9,7 +9,7 @@ function NeedInspirationSection() {
         <Container>
             <div className="row">
                 <div className='col-md-4 z-2'>
-                    <h2 className='text-start text-light text-capitalize fw-semibold'>Butuh inspirasi?</h2>
+                    <h2 className='text-start text-light text-capitalize fw-semibold'>Butuh inpirasi</h2>
                     <p className='text-start text-light'>Kami memberikan rekomendasi perjalanan anda agar lebih menarik dan seru.</p>
                     <div className='d-flex'>
                         <h5 className='text-light text-capitalize fw-semibold text-nowrap'>Hubungi sekarang:</h5>

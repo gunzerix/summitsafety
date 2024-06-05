@@ -16,9 +16,10 @@ function SearchForm() {
                 <div className='col-lg-2'>
                     <Form.Select>
                         <option>Pilih provinsi</option>
-                        <option value="1">London</option>
-                        <option value="2">Dubai</option>
-                        <option value="3">Paris</option>
+                        <option value="1">Jawa</option>
+                        <option value="2">Sumatra</option>
+                        <option value="3">Lombok</option>
+                        <option value="3">Kalimantan</option>
                     </Form.Select>
                 </div>
                 <div className='col-lg-2 mx-lg-3 my-2 my-lg-0'>
